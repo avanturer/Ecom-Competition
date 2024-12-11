@@ -112,11 +112,12 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. Запустите ноутбук или скрипт:
+2. Поместите файлы train.csv и sample_submission.csv в корневую директорию.
+3. Запустите ноутбук или скрипт:
    ```bash
    python train_and_predict.py
    ```
-3. Финальные предсказания будут сохранены в файле `submission_baseline_cb_5_folds.csv`.
+4. Финальные предсказания будут сохранены в файле `submission_baseline_cb_5_folds.csv`.
 
 ---
 
