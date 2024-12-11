@@ -115,7 +115,7 @@
 2. Поместите файлы train.csv и sample_submission.csv в корневую директорию.
 3. Запустите ноутбук или скрипт:
    ```bash
-   python train_and_predict.ipynb
+   train_and_predict.ipynb
    ```
 4. Финальные предсказания будут сохранены в файле `submission_baseline_cb_5_folds.csv`.
 
