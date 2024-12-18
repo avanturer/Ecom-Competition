@@ -31,10 +31,11 @@
 
 Оценка проводится с использованием **F1-меры**, которая учитывает баланс между точностью (precision) и полнотой (recall). Формула F1-меры:
 
-\[ F1 = 2 \cdot \frac{precision \cdot recall}{precision + recall} \]
+F₁ = ₂ × (precision × recall) / (precision + recall)
 
-Где:
-\[ precision = \frac{TP}{TP + FP}, \quad recall = \frac{TP}{TP + FN} \]
+где:
+precision = TP / (TP + FP)
+recall = TP / (TP + FN)
 
 Задача состоит в нахождении оптимального баланса между precision и recall.
 
