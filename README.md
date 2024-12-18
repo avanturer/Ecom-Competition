@@ -31,7 +31,7 @@
 
 Оценка проводится с использованием **F1-меры**, которая учитывает баланс между точностью (precision) и полнотой (recall). Формула F1-меры:
 
-F₁ = ₂ × (precision × recall) / (precision + recall)
+F₁ = 2 × (precision × recall) / (precision + recall)
 
 где:
 precision = TP / (TP + FP)
